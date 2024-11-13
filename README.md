@@ -57,6 +57,10 @@ Converting and Expanding: The resized image is converted into an array format an
 Preprocessing Input: Additional steps like normalization are applied to align the input data with the model’s expectations.
 
 
+
+
 **Similarity Measurement:**
+
+![Screenshot 2024-11-13 224055](https://github.com/user-attachments/assets/8ba5e46f-d649-4fa6-8471-0cf7e54f27db)
 
 In our recommendation system, we utilize cosine similarity to measure the similarity between image feature vectors. Cosine similarity quantifies the similarity between two vectors by calculating the cosine of the angle between them. A value of 1 indicates identical vectors, while 0 implies orthogonal vectors. This method enables us to identify images with similar features, facilitating accurate recommendations. For a detailed explanation, you can refer to this article: Cosine Similarity Explained
