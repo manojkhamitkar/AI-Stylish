@@ -42,6 +42,8 @@ These datasets contain a vast array of fashion items, ranging from clothing and 
 
 **Preprocessing:**
 
+https://miro.medium.com/v2/resize:fit:1400/format:webp/1*GjdBxJYHsp_WHyrU-Hlqjg.png
+
 We will utilize ResNet-50 transfer learning techniques for feature extraction in our recommendation system
 
 The preprocessing technique for ResNet-50 involves:
